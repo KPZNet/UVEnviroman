@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UVEnviroman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b255fd39b566673a23c0207a0acc2a6697627df4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UVEnviroman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UVEnviroman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
