@@ -1,0 +1,16 @@
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\bin\Debug\net8.0-windows\UVEnviroman.exe
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\bin\Debug\net8.0-windows\UVEnviroman.deps.json
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\bin\Debug\net8.0-windows\UVEnviroman.runtimeconfig.json
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\bin\Debug\net8.0-windows\UVEnviroman.dll
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\bin\Debug\net8.0-windows\UVEnviroman.pdb
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.Form1.resources
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.csproj.GenerateResource.cache
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.AssemblyInfoInputs.cache
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.AssemblyInfo.cs
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.csproj.CoreCompileInputs.cache
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.dll
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\refint\UVEnviroman.dll
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.pdb
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\UVEnviroman.genruntimeconfig.cache
+C:\Users\kence\Documents\UVEnviroman\UVEnviroman\obj\Debug\net8.0-windows\ref\UVEnviroman.dll
